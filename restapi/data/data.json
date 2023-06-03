@@ -1,0 +1,171 @@
+[
+    {
+        "id" : 1,
+        "name_movie":"Aakaasam Nee Haddhu",
+        "name_hero":"Surya",
+        "name_heroine":"Aparna Balamurali Bommi",
+        "name_director":"Sudha Kongara Prasad"
+        
+    },
+    {
+        "id" : 3,
+        "name_movie":"Ardha Shathabd",
+        "name_hero":"Karthik Rathnam",
+        "name_heroine":"Krishna Priya",
+        "name_director":"Rawindra Pulle"
+    },
+    {
+        "id" : 4,
+        "name_movie":"Arya",
+        "name_hero":"Allu Arjun",
+        "name_heroine":"Anu Mehta",
+        "name_director":"Sukumar"
+    },
+    {
+        "id" : 5,
+        "name_movie":"Balagam",
+        "name_hero":"Priyadarshi",
+        "name_heroine":"Kavya Kalyanram",
+        "name_director":" Venu Yeldandi"
+    },
+    {
+        "id" : 6,
+        "name_movie":"Bangarraju2",
+        "name_hero":"Naga Chaitanya",
+        "name_heroine":"Krithi Shetty",
+        "name_director":"Kalyan Krishna Kurasala"
+    },
+    {
+        "id" : 7,
+        "name_movie":"Pushpa The rise",
+        "name_hero":"Allu Arjun",
+        "name_heroine":"Rashmika Mandanna",
+        "name_director":"Sukumar"
+    },
+    {
+        "id" : 8,
+        "name_movie":"Beast",
+        "name_hero":"Vijay",
+        "name_heroine":"Pooja Hegde",
+        "name_director":"Nelson Dilipkumar"
+    },
+    {
+        "id" : 9,
+        "name_movie":"Bimbisara",
+        "name_hero":"Kalyan Ram",
+        "name_heroine":"Samyuktha Menon",
+        "name_director":"Mallidi Vasishta"
+    },
+    {
+        "id" : 10,
+        "name_movie":"Dasara",
+        "name_hero":"Nature star Nani",
+        "name_heroine":"Keerthy Suresh",
+        "name_director":"Srikanth Odhela"
+    },
+    {
+        "id" : 11,
+        "name_movie":"Das Ka Dhamki",
+        "name_hero":"Vishwak Sen",
+        "name_heroine":"Nivetha Pethuraj",
+        "name_director":"Vishwak Sen"
+    },
+    {
+        "id" : 12,
+        "name_movie":"Dhamaka",
+        "name_hero":"Ravi Teja",
+        "name_heroine":"Sree Leela",
+        "name_director":"Trinadha Rao Nakkina" 
+    },
+    {
+        "id" : 13,
+        "name_movie":"DJ Tillu",
+        "name_hero":"Siddhu",
+        "name_heroine":"Neha Shetty",
+        "name_director":"Vimal Krishna" 
+    },
+    {
+        "id" : 14,
+        "name_movie":"Goodachari",
+        "name_hero":"Adivi Sesh",
+        "name_heroine":"Sobhita Dhulipala",
+        "name_director":"Sashi Kiran Tikka"
+    },
+    {
+        "id" : 15,
+        "name_movie":"Hit",
+        "name_hero":"Vishwak Sen",
+        "name_heroine":"Ruhani Sharma",
+        "name_director":"Sailesh Kolanu"
+    },
+    {
+        "id" : 16,
+        "name_movie":"Karthikeya2",
+        "name_hero":"Nikhil Siddhartha",
+        "name_heroine":"Anupama Parameswaran",
+        "name_director":"Chandoo Mondeti"
+    },
+    {
+        "id" : 17,
+        "name_movie":"KGF1",
+        "name_hero":"Yash",
+        "name_heroine":"Srinidhi Shetty",
+        "name_director":"Prashanth Neel"
+    },
+    {
+        "id" : 18,
+        "name_movie":"KGF2",
+        "name_hero":"Yash",
+        "name_heroine":"Srinidhi Shetty",
+        "name_director":"Prashanth Neel"
+    },
+    {
+        "id" : 19,
+        "name_movie":"Ramabanam",
+        "name_hero":"Gopichand",
+        "name_heroine":"Dimple Hayathi",
+        "name_director":"Sriwass"
+    },
+    {
+        "id" : 20,
+        "name_movie":"Ravanasura",
+        "name_hero":"Ravi Teja",
+        "name_heroine":"Daksha Nagarkar Jaanu",
+        "name_director":"Sudheer Varma"
+    },
+    {
+        "id" : 21,
+        "name_movie":"Sir",
+        "name_hero":"Dhanush",
+        "name_heroine":"Samyuktha",
+        "name_director":"Venky Atluri" 
+    },
+    {
+        "id" : 22,
+        "name_movie":"Sita Ramam",
+        "name_hero":"Dulquer Salmaan",
+        "name_heroine":"Mrunal Thakur",
+        "name_director":"Teja"
+    },
+    {
+        "id" : 23,
+        "name_movie":"Virupaksha",
+        "name_hero":"Sai Dharam Tej",
+        "name_heroine":"Samyuktha",
+        "name_director":"Karthik Varma Dandu"
+    },
+    {
+        "id" : 24,
+        "name_movie":"Writer Padmabhushan",
+        "name_hero":"Suhas",
+        "name_heroine":"Tina Shilparaj",
+        "name_director":"Shanmukha Prasanth"
+    },
+    {
+        "id" : 25,
+        "name_movie":"Yashoda",
+        "name_hero":"None",
+        "name_heroine":"Samantha",
+        "name_director":"Hari Harish"
+    }
+]

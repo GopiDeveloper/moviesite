@@ -1,0 +1,438 @@
+[
+    {
+        "id" : 1,
+        "movie_id": 1,
+        "name_movie": "Aakaasam Nee Haddhu",
+        "image_move": "https://i.ibb.co/P6G28Qt/Aakaasam.jpg",
+        "edit_image":"https://i.ibb.co/ySfB4Dz/Aakaasam-edited.jpg"
+    },
+    {
+        "id" : 2,
+        "movie_id": 2,
+        "name_movie": "Alita Battle",
+        "image_move":"https://i.ibb.co/j34ZQX0/Alita.jpg" ,
+        "edit_image":"https://i.ibb.co/SsP9Nnq/Alita-edited.jpg"
+    },
+    {
+        "id" : 3,
+        "movie_id": 3,
+        "name_movie": "",
+        "image_move":"https://i.ibb.co/0rdwwJd/Aquaman.jpg",
+        "edit_image":"https://i.ibb.co/sw1tc1r/Aquaman-edited.jpg"
+    },
+    {
+        "id" : 4,
+        "movie_id": 4,
+        "name_movie": "Ardha Shathabd",
+        "image_move":"https://i.ibb.co/48JCJ9h/Adha.jpg",
+        "edit_image":"https://i.ibb.co/5kfzMf8/Adha-edited.jpg"
+    },
+    {
+        "id" : 5,
+        "movie_id": 5,
+        "name_movie": "Arya",
+        "image_move":"https://i.ibb.co/S3Rgyz4/arya.jpg",
+        "edit_image":"https://i.ibb.co/gvt7yDF/arya-edited.jpg"
+    },
+    {
+        "id" : 7,
+        "movie_id": 7,
+        "name_movie": "Balagam",
+        "image_move":"https://i.ibb.co/hRf4CWh/balagam.jpg",
+        "edit_image":"https://i.ibb.co/kmkZLKt/balagam-edited.jpg"
+    },
+    {
+        "id" : 8,
+        "movie_id": 8,
+        "name_movie": "Bangarraju2",
+        "image_move":"https://i.ibb.co/b6Z1YMT/bagarraju.jpg",
+        "edit_image":"https://i.ibb.co/1npD8xG/bagarraju-edited.jpg"
+    },
+    {
+        "id" : 9,
+        "movie_id": 9,
+        "name_movie": "Battleship1",
+        "image_move":"https://i.ibb.co/5431tkW/battleship.jpg",
+        "edit_image":"https://i.ibb.co/9HkyCY1/battleship-edited.jpg"
+    },
+    {
+        "id" : 10,
+        "movie_id": 10,
+        "name_movie": "Beast(2022)",
+        "image_move":"https://i.ibb.co/M77S7Rr/beast.jpg",
+        "edit_image":"https://i.ibb.co/0r8sLH3/beast-edited.jpg"
+    },
+    {
+        "id" : 11,
+        "movie_id": 11,
+        "name_movie": "Bimbisara",
+        "image_move":"https://i.ibb.co/N7dHg42/Bimbisara.jpg",
+        "edit_image":"https://i.ibb.co/KKqBVcg/Bimbisara-edited.jpg"
+    },
+    {
+        "id" : 12,
+        "movie_id": 12,
+        "name_movie": "Boyfriend for Hire",
+        "image_move":"https://i.ibb.co/r7JBVW4/boyfriend.jpg",
+        "edit_image":"https://i.ibb.co/9t4wmTp/boyfriend-edited.jpg"
+    },
+    {
+        "id" : 13,
+        "movie_id": 13,
+        "name_movie": "Butta Bomma",
+        "image_move":"https://i.ibb.co/cTTmtJD/buttabomma.jpg",
+        "edit_image":"https://i.ibb.co/gt7HbH3/buttabomma-edited.jpg"
+    },
+    {
+        "id" : 14,
+        "movie_id": 14,
+        "name_movie": "Dasara",
+        "image_move":"https://i.ibb.co/N96GrXz/dasara.jpg",
+        "edit_image":"https://i.ibb.co/ySxzCWM/dasara-edited.jpg"
+    },
+    {
+        "id" : 15,
+        "movie_id": 15,
+        "name_movie": "Das Ka Dhamki",
+        "image_move":"https://i.ibb.co/Hpt9VCv/das-ka.jpg",
+        "edit_image":"https://i.ibb.co/1qgx8mb/das-ka-edited.jpg"
+    },
+    {
+        "id" : 16,
+        "movie_id": 16,
+        "name_movie": "Dhamaka",
+        "image_move":"https://i.ibb.co/yV8b5Z9/dhamaka.jpg",
+        "edit_image":"https://i.ibb.co/6YgCPTN/dhamaka-edited.jpg"
+    },
+    {
+        "id" : 17,
+        "movie_id": 17,
+        "name_movie": "DJ Tillu",
+        "image_move":"https://i.ibb.co/C6Q88wq/DJ-Tillu.jpg",
+        "edit_image":"https://i.ibb.co/cwq5tks/DJ-Tillu-edited.jpg"
+    },
+    {
+        "id" : 18,
+        "movie_id": 18,
+        "name_movie": "DSP",
+        "image_move":"https://i.ibb.co/pvfk8Vf/DSP.jpg",
+        "edit_image":"https://i.ibb.co/rbPzwkf/DSP-edited.jpg"
+    },
+    {
+        "id" : 19,
+        "movie_id": 19,
+        "name_movie": "Ganga",
+        "image_move":"https://i.ibb.co/sq6f42M/ganga.jpg",
+        "edit_image":"https://i.ibb.co/wc6h2nd/ganga-edited.jpg"
+    },
+    {
+        "id" : 20,
+        "movie_id": 20,
+        "name_movie": "Ghost Rider",
+        "image_move":"https://i.ibb.co/7QRpCGM/ghost.jpg",
+        "edit_image":"https://i.ibb.co/1d5YRNc/ghost-edited.jpg"
+    },
+    {
+        "id" : 21,
+        "movie_id": 21,
+        "name_movie": "Ghost Rider Spirit",
+        "image_move":"https://i.ibb.co/fM7Ss8r/ghost-spirit.jpg",
+        "edit_image":"https://i.ibb.co/jw5qVYJ/ghost-spirit-edited.jpg"
+    },
+    {
+        "id" : 22,
+        "movie_id": 22,
+        "name_movie": "God of Egy",
+        "image_move":"https://i.ibb.co/7j7zLRk/gods.jpg",
+        "edit_image":"https://i.ibb.co/W2vJZjn/gods-edited.jpg"
+    },
+    {
+        "id" : 23,
+        "movie_id": 23,
+        "name_movie": "Goodachari",
+        "image_move":"https://i.ibb.co/xKZ6jc6/gudachari.jpg",
+        "edit_image":"https://i.ibb.co/XzPBgmv/gudachari-edited.jpg"
+    },
+    {
+        "id" : 24,
+        "movie_id": 24,
+        "name_movie": "Half Girlfriend",
+        "image_move":"https://i.ibb.co/hc1QZNm/Half-Girlfriend.jpg",
+        "edit_image":"https://i.ibb.co/tM2f2Z5/Half-Girlfriend-edited.jpg"
+    },
+    {
+        "id" : 25,
+        "movie_id": 25,
+        "name_movie": "Hello World",
+        "image_move":"https://i.ibb.co/fGXr2nW/Hello-World.jpg",
+        "edit_image":"https://i.ibb.co/n0xDDMb/Hello-World-edited.jpg"
+    },
+    {
+        "id" : 26,
+        "movie_id": 26,
+        "name_movie": "Hit",
+        "image_move":"https://i.ibb.co/kMdX3K6/HIT.jpg",
+        "edit_image":"https://i.ibb.co/b2MgFxH/HIT-edited.jpg"
+    },
+    {
+        "id" : 27,
+        "movie_id": 27,
+        "name_movie": "Itlu Maredumilli Prajaneekam",
+        "image_move":"https://i.ibb.co/x7RSWkq/itlu.jpg",
+        "edit_image":"https://i.ibb.co/FK4ymmC/itlu-edited.jpg"
+    },
+    {
+        "id" : 28,
+        "movie_id": 28,
+        "name_movie": "jaya jaya jaya hey",
+        "image_move":"https://i.ibb.co/jMvLQN7/jay.jpg",
+        "edit_image":"https://i.ibb.co/qy2fzXj/jay-edited.jpg"
+    },
+    {
+        "id" : 30,
+        "movie_id": 30,
+        "name_movie": "Julayi",
+        "image_move":"https://i.ibb.co/3Ns2vFL/julayi.jpg",
+        "edit_image":"https://i.ibb.co/ZV1ct9F/julayi-edited.jpg"
+    },
+    {
+        "id" : 31,
+        "movie_id": 31,
+        "name_movie": "Karthikeya2",
+        "image_move":"https://i.ibb.co/vPM02zY/Karthikeya-2.jpg",
+        "edit_image":"https://i.ibb.co/brTdzL6/Karthikeya-2-edited.jpg"
+    },
+    {
+        "id" : 32,
+        "movie_id": 32,
+        "name_movie": "KGF1",
+        "image_move":"https://i.ibb.co/Dt9bqrS/kgf1.jpg",
+        "edit_image":"https://i.ibb.co/t4BRw1X/kgf1-edited.jpg"
+    },
+    {
+        "id" : 33,
+        "movie_id": 33,
+        "name_movie": "KGF2",
+        "image_move":"https://i.ibb.co/4VXpWtY/kgf2.jpg",
+        "edit_image":"https://i.ibb.co/PFCzhPh/kgf2-edited.jpg"
+    },
+    {
+        "id" : 34,
+        "movie_id": 34,
+        "name_movie": "Love_Today",
+        "image_move":"https://i.ibb.co/pfj6Xpj/lovetody.jpg",
+        "edit_image":"https://i.ibb.co/FK8ZcSf/lovetody-edited.jpg"
+    },
+    {
+        "id" : 35,
+        "movie_id": 35,
+        "name_movie": "MASTER(2021)",
+        "image_move":"https://i.ibb.co/vj6tqs2/master.jpg",
+        "edit_image":"https://i.ibb.co/4Yc0hHm/master-edited.jpg"
+    },
+    {
+        "id" : 36,
+        "movie_id": 36,
+        "name_movie": "Matti-Kusthi",
+        "image_move":"https://i.ibb.co/K07w2Nx/matti.jpg",
+        "edit_image":"https://i.ibb.co/MS6jzPw/matti-edited.jpg"
+    },
+    {
+        "id" : 37,
+        "movie_id": 37,
+        "name_movie": "Mosagadhu",
+        "image_move":"https://i.ibb.co/9TLKtQq/mosagadhu.jpg",
+        "edit_image":"https://i.ibb.co/XCKbZ8s/mosagadhu-edited.jpg"
+    },
+    {
+        "id" : 38,
+        "movie_id": 38,
+        "name_movie": "Mukundan-Unni-Associates",
+        "image_move":"https://i.ibb.co/gZrG2gZ/associate1.jpg",
+        "edit_image":"https://i.ibb.co/rGkTX1X/associate-edited.jpg"
+    },
+    {
+        "id" : 39,
+        "movie_id": 39,
+        "name_movie": "Nanpakal-Nerathu-Mayakkam",
+        "image_move":"https://i.ibb.co/XVY1tP4/nanpakalnerathumayakkam.jpg",
+        "edit_image":"https://i.ibb.co/zs8RQDN/nanpakalnerathumayakkam-edited.jpg"
+    },
+    {
+        "id" : 40,
+        "movie_id": 40,
+        "name_movie": "Panchatantram",
+        "image_move":"https://i.ibb.co/Kjv9krz/pancha.jpg",
+        "edit_image":"https://i.ibb.co/BnCyYrJ/pancha-edited.jpg"
+    },
+    {
+        "id" : 41,
+        "movie_id": 41,
+        "name_movie": "Parampara",
+        "image_move":"https://i.ibb.co/WHQ5NpC/parampara.jpg",
+        "edit_image":"https://i.ibb.co/L8PWk8x/parampara-edited.jpg"
+    },
+    {
+        "id" : 42,
+        "movie_id": 42,
+        "name_movie": "Parampara2",
+        "image_move":"https://i.ibb.co/PNynZh2/parampara-2.jpg",
+        "edit_image":"https://i.ibb.co/RNHgC6q/parampara-2-edited.jpg"
+    },
+    {
+        "id" : 43,
+        "movie_id": 43,
+        "name_movie": "Parampara3",
+        "image_move":"https://i.ibb.co/M57h9DK/Parampara3.jpg",
+        "edit_image":"https://i.ibb.co/Nrc2yxn/Parampara3-edited.jpg"
+    },
+    {
+        "id" : 44,
+        "movie_id": 44,
+        "name_movie": "Pasalapoodi-Veerababu",
+        "image_move":"https://i.ibb.co/tb1pWMt/pasalapoodi.jpg",
+        "edit_image":"https://i.ibb.co/gyKnFGf/pasalapoodi-edited.jpg"
+    },
+    {
+        "id" : 45,
+        "movie_id": 45,
+        "name_movie": "Prabhudeva-Bagheera",
+        "image_move":"https://i.ibb.co/FhMwJvC/prabhu.jpg",
+        "edit_image":"https://i.ibb.co/pXgv8C9/prabhu-edited.jpg"
+    },
+    {
+        "id" : 46,
+        "movie_id": 46,
+        "name_movie": "Pushpa-The-Rise",
+        "image_move":"https://i.ibb.co/nfytRFd/pushpa1.jpg",
+        "edit_image":"https://i.ibb.co/yW6nkhJ/pushpa1-edited.jpg"
+    },
+    {
+        "id" : 47,
+        "movie_id": 47,
+        "name_movie": "Race-Gurram",
+        "image_move":"https://i.ibb.co/nRjMBDn/Race-Gurram.jpg",
+        "edit_image":"https://i.ibb.co/ZJ11Xsw/Race-Gurram-edited.jpg"
+    },
+    {
+        "id" : 48,
+        "movie_id": 48,
+        "name_movie": "Ramabanam",
+        "image_move":"https://i.ibb.co/qyK7js9/Ramabanam.jpg",
+        "edit_image":"https://i.ibb.co/LRBDfBD/Ramabanam-edited.jpg"
+    },
+    {
+        "id" : 49,
+        "movie_id": 49,
+        "name_movie": "Ram-Setu",
+        "image_move":"https://i.ibb.co/5TLhJyt/ram-setu.jpg",
+        "edit_image":"https://i.ibb.co/17kPj5s/ram-setu-edited.jpg"
+    },
+    {
+        "id" : 50,
+        "movie_id": 50,
+        "name_movie": "Ravanasura",
+        "image_move":"https://i.ibb.co/fSZVGvd/ravanasudha.jpg",
+        "edit_image":"https://i.ibb.co/gDSzsRN/ravanasudha-edited.jpg"
+    },
+    {
+        "id" : 51,
+        "movie_id": 51,
+        "name_movie": "RED",
+        "image_move":"https://i.ibb.co/YPyzycV/Red.jpg",
+        "edit_image":"https://i.ibb.co/8DHHx3v/Red-edited.jpg"
+    },
+    {
+        "id" : 52,
+        "movie_id": 52,
+        "name_movie": "Rudramadevi",
+        "image_move":"https://i.ibb.co/2WqzPck/Rudrama-Devi.jpg",
+        "edit_image":"https://i.ibb.co/2ZBKJ1v/Rudrama-Devi-edited.jpg"
+    },
+    {
+        "id" : 53,
+        "movie_id": 53,
+        "name_movie": "Shazam",
+        "image_move":"https://i.ibb.co/3pk4KJv/shazam.jpg",
+        "edit_image":"https://i.ibb.co/C6zsG1g/shazam-edited.jpg"
+    },
+    {
+        "id" : 54,
+        "movie_id": 54,
+        "name_movie": "Shazam-2",
+        "image_move":"https://i.ibb.co/3pk4KJv/shazam.jpg",
+        "edit_image":"https://i.ibb.co/C6zsG1g/shazam-edited.jpg"
+    },
+    {
+        "id" : 55,
+        "movie_id": 55,
+        "name_movie": "Sir",
+        "image_move":"https://i.ibb.co/5r5Wbvw/sir.jpg",
+        "edit_image":"https://i.ibb.co/qRL8JLM/sir-edited.jpg"
+    },
+    {
+        "id" : 56,
+        "movie_id": 56,
+        "name_movie": "Sita_Ramam",
+        "image_move":"https://i.ibb.co/QJbLcTv/Sita-Ramam.jpg",
+        "edit_image":"https://i.ibb.co/dMnKdkx/Sita-Ramam-edited.jpg"
+    },
+    {
+        "id" : 57,
+        "movie_id": 57,
+        "name_movie": "SO-Satyamurthy",
+        "image_move":"https://i.ibb.co/cySP3Ff/satyamurthi.jpg",
+        "edit_image":"https://i.ibb.co/TPkCPsN/satyamurthi-edited.jpg"
+    },
+    {
+        "id" : 59,
+        "movie_id": 59,
+        "name_movie": "Tegimpu",
+        "image_move":"https://i.ibb.co/tJBw0zT/tegipu.jpg",
+        "edit_image":"https://i.ibb.co/xF7vxP9/tegipu-edited.jpg"
+    },
+    {
+        "id" : 60,
+        "movie_id": 60,
+        "name_movie": "The-Adam-Project",
+        "image_move":"https://i.ibb.co/CsvhfT8/project.jpg",
+        "edit_image":"https://i.ibb.co/y6fPTct/project-edited.jpg"
+    },
+    {
+        "id" : 61,
+        "movie_id": 61,
+        "name_movie": "The-Ghazi",
+        "image_move":"https://i.ibb.co/pRFPpqb/ghazi.jpg",
+        "edit_image":"https://i.ibb.co/bW6FH1y/ghazi-edited.jpg"
+    },
+    {
+        "id" : 62,
+        "movie_id": 62,
+        "name_movie": "The-Male-Ghost",
+        "image_move":"https://i.ibb.co/ZSc5DHH/maleghost.jpg",
+        "edit_image":"https://i.ibb.co/sqJk09Z/maleghost-edited.jpg"
+    },
+    
+    {
+        "id" : 66,
+        "movie_id": 66,
+        "name_movie": "Virupaksha",
+        "image_move":"https://i.ibb.co/sFv78W5/virupaksha.jpg",
+        "edit_image":"https://i.ibb.co/rHFJc8x/virupaksha-edited.jpg"
+    },
+    {
+        "id" : 68,
+        "movie_id": 68,
+        "name_movie": "Writer-Padmabhushan",
+        "image_move":"https://i.ibb.co/CWwB5GJ/Writer-Padmabhushan.jpg",
+        "edit_image":"https://i.ibb.co/K65yK1M/Writer-Padmabhushan-edited.jpg"
+    },
+    {
+        "id" : 69,
+        "movie_id": 69,
+        "name_movie": "Yashoda",
+        "image_move":"https://i.ibb.co/z50JnFz/yashoda.jpg",
+        "edit_image":"https://i.ibb.co/Y07ndwr/yashoda-edited.jpg"
+    }
+]
+
