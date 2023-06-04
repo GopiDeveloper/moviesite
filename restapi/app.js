@@ -37,6 +37,13 @@ app.get('/review',(req,res) => {
         res.send(result)
     })
 })
+app.get('/review/:id', (req,res) =>{
+    var id =parseInt(req.params.id);
+    db.collection('moviereview').find({"movie_id":id}).toArray((err,result) =>{
+        if(err) throw err;
+        res.send(result)
+    })
+})
 /*
 app.get('/cart',(req,res) => {
     db.collection('eshoping').find().toArray((err,result) => {
